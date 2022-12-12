@@ -1,0 +1,45 @@
+p {
+    background-color: #0050a5;
+    color: white;
+}
+
+.ur {
+    background-color: #d50716;
+    color: white;
+}
+
+body {
+    background-color: rgb(9, 40, 161);
+    color: white
+}
+button {
+    border-radius: 12px;
+    background-color: rgb(9, 40, 161);
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.error-message {
+    background-color: red;
+    color: white;
+    border: none;
+}
+input {
+    background-color: white;
+    color: black;
+    border: black 1px solid;
+    border-radius: 4px;
+}
+.field-column {
+    text-align: center;
+}
+table, td {
+    background-color: rgb(9, 40, 161);
+    border: white 2px solid;
+}
+th {
+    background-color: rgb(9, 138, 161);
+    border: white 2px solid;
+}
